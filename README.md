@@ -1,4 +1,4 @@
-<h1>🛠 Project Summary<h1>
+🛠 Project Summary
 
 Project Name: Terraform Infrastructure Setup for AWS EC2 with VPC, Security Groups & Automation
 <br>
