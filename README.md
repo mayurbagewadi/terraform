@@ -4,7 +4,7 @@ Project Name: Terraform Infrastructure Setup for AWS EC2 with VPC, Security Grou
 <br>
 
 💡Note:<br>
-This code demonstrates the candidate's ability to:
+This code demonstrates the candidate's ability to
 
 Write modular, reusable, and parameterized infrastructure code
 
